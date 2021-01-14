@@ -1,0 +1,62 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#highlight{
+    color: tomato;
+    font-size: 60px;
+}
+.line-highlight{
+    color: darkslateblue;
+    font-size: 60px;
+}
+.top-banner{
+    background-color: #fff9f4;
+}
+.btn-color{
+    background-color: blue;
+}
+nav{
+    background-color: #fff9f4;
+    font-size: 20px;
+    font-weight: bold;
+}
+nav ul :hover{
+    background-color: pink;
+}
+nav img{
+    width: 300px;
+}
+
+.shoe-card img{
+    height: 350px;
+}
+.shoe-card-footer{
+    background-color: white;
+    border: 0;
+    padding:10px 20px;
+}
+.signboard{
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.shoe-card:hover, .shoe-card-footer:hover{
+    background-color:whitesmoke;
+    cursor: pointer;
+}
+.signboard img{
+    height: 100px;
+}
+.shoe-subscribe{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+footer{
+    background-color: black;
+    color: whitesmoke;
+    height: 50px;
+}
+.textsize{
+    font-size: 50px;
+    color: darkslateblue;
+    font-weight: bold;
+}
